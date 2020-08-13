@@ -1,0 +1,11 @@
+XAMPP
+Composer
+Node Module
+Visual Studio Code
+git
+bootstrap
+Intervention Image
+farhanwazir/laravelgooglemaps
+Voyager
+Laravel Auth
+DataTables
